@@ -1,5 +1,5 @@
 {
-  "update": true,
+  "update": false,
   "version": "1.7.0",
   "version_code": 170,
   "changelogs": "• Penambahan sistem Anti-Ban baru\n• Optimalisasi sensitivitas aim\n• Perbaikan integrasi Shizuku",
