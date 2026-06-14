@@ -1,10 +1,10 @@
 {
-  "update": false,
+  "update": true,
   "version": "1.7.0",
   "version_code": 170,
   "changelogs": "• Penambahan sistem Anti-Ban baru\n• Optimalisasi sensitivitas aim\n• Perbaikan integrasi Shizuku",
   "force_update": 0,
-  "page_url": "https://link-download-aplikasi-baru-anda.com/download",
+  "page_url": "https://discord.gg/3dzSsEDhTZ",
   "full": {
     "url": "https://link-download-aplikasi-baru-anda.com/download",
     "size": 30000000,
